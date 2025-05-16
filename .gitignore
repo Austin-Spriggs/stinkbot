@@ -11,3 +11,6 @@ db.py
 # Ignore system files (Windows)
 Thumbs.db
 .DS_Store
+
+# ignore buildspec
+buildspec.yml
