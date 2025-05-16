@@ -12,5 +12,6 @@ db.py
 Thumbs.db
 .DS_Store
 
-# ignore buildspec
+# other
 buildspec.yml
+postScript.sh
